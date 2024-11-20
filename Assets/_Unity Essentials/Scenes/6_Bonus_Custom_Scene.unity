@@ -2727,6 +2727,16 @@ PrefabInstance:
       propertyPath: m_Volume
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1533950550158206188, guid: 977530f62f3bfcc48a88dfaa5c12765f,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1533950550158206188, guid: 977530f62f3bfcc48a88dfaa5c12765f,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1726732412470069984, guid: 977530f62f3bfcc48a88dfaa5c12765f,
         type: 3}
       propertyPath: m_Volume
